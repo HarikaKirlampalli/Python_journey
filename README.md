@@ -161,4 +161,15 @@ Topics Covered:
 - super() Practice
 - Multiple OOP Examples
 
+##🚀 Day 22 
+📚 Topics Covered:
+ ✅ Introduction to Inheritance
+ ✅ Single Inheritance
+ ✅ Multiple Inheritance
+ ✅ Multilevel Inheritance
+ ✅ Hierarchical Inheritance
+ ✅ Hybrid Inheritance
+ ✅ super() Method
+ ✅ Constructor Inheritance using __init__()
+
 Started my Data Analytics learning journey and successfully executed Python programs using IDLE.
