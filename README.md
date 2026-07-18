@@ -161,7 +161,7 @@ Topics Covered:
 - super() Practice
 - Multiple OOP Examples
 
-##🚀 Day 22 
+## 📅 Day 22 
 📚 Topics Covered:
  ✅ Introduction to Inheritance
  ✅ Single Inheritance
@@ -171,5 +171,17 @@ Topics Covered:
  ✅ Hybrid Inheritance
  ✅ super() Method
  ✅ Constructor Inheritance using __init__()
+
+ ## 📅 Day 23
+- Polymorphism
+- Method Overloading
+- Method Overriding
+- Operator Overloading
+- Data Abstraction
+- Abstract Classes
+- Abstract Methods
+- `ABC` Module
+- `@abstractmethod`
+- Bank Interest System using Abstraction
 
 Started my Data Analytics learning journey and successfully executed Python programs using IDLE.
