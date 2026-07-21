@@ -183,4 +183,29 @@ Topics Covered:
 - `@abstractmethod`
 - Bank Interest System using Abstraction
 
+-## 📅 Day 24
+
+📚 Topics Covered:
+- Built a University Management System using Python OOP
+- Implemented Inheritance
+- Method Overriding (Polymorphism)
+- Used Constructors with `super()`
+- Encapsulation using Private Attributes
+- Class Attributes
+- Class Methods (`@classmethod`)
+- Static Methods (`@staticmethod`)
+- Created Multiple Classes:
+  - Student
+  - Faculty
+  - Librarian
+  - Bus Driver
+  - Cleaning Staff
+  - Technical Staff
+  - Non-Technical Staff
+- Object Creation and Display Methods
+- Counted Total Objects using Class Variables
+
+💻 Project:
+- University Management System using Object-Oriented Programming (OOP) 
+
 Started my Data Analytics learning journey and successfully executed Python programs using IDLE.
