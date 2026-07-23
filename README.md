@@ -234,4 +234,24 @@ Topics Covered:
 - readlines() Function
 - Hands-on File Operations
 
+- ### ✅ Day 27
+**Topics Covered:**
+- Introduction to Regular Expressions (RegEx)
+- Importing the `re` Module
+- RegEx Functions:
+  - findall()
+  - search()
+  - split()
+  - sub()
+  - fullmatch()
+- Metacharacters:
+  - []
+  - ^
+  - $
+  - .
+  - *
+  - +
+  - {}
+- Pattern Matching Examples
+
 Started my Data Analytics learning journey and successfully executed Python programs using IDLE.
