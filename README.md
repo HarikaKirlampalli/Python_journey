@@ -271,4 +271,19 @@ Topics Covered:
 - Series
 - DataFrame Creation
 
+- ### ✅ Day 11
+**Topics Covered:**
+- Introduction to Matplotlib
+- Line Plot
+- Bar Chart
+- Pie Chart
+- Scatter Plot
+- Histogram
+- Chart Customization
+  - Titles
+  - Axis Labels
+  - Colors
+  - Legends
+- Data Visualization using Python
+
 Started my Data Analytics learning journey and successfully executed Python programs using IDLE.
